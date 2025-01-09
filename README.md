@@ -1,12 +1,12 @@
 
 # 项目名称
-     gcn_for_ localization
+gcn_for_ localization
 
 ## 论文参考
 
 本项目的实现基于以下论文：
 
-- [论文标题](https://arxiv.org/abs/2010.11653)
+- [论文](https://arxiv.org/abs/2010.11653)
 - 论文中提出了基于 GNN 的网络定位方法，并且在此基础上进行了一些改进和验证。
 
 ## 复现结果
